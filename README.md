@@ -6,4 +6,4 @@
 - [] Diogo - @diogo
 - [] Kevin - @kevin
 - [] Mateus - @mateus
-- [] Eduardo - @eduardo
+- [] Eduardo - @eduardoEduBox
