@@ -4,6 +4,6 @@
 
 - [] Arthur - @adlascio
 - [] Diogo - @diogo
-- [] Kevin - @kevin
+- [] Kevin - @Kevin Lee
 - [] Mateus - @mateus
 - [] Eduardo - @eduardo
