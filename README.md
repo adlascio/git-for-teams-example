@@ -3,7 +3,7 @@
 ## Collaborators
 
 - [] Arthur - @adlascio
-- [] Diogo - @diogo
+- [] Diogo - @diogoka
 - [] Kevin - @kevin
 - [] Mateus - @mateus
 - [] Eduardo - @eduardo
